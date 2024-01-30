@@ -17,8 +17,7 @@
 
  ## Professor de matemática, agora aprendiz de programação. <br/>
 
- [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit)](mailto:pauloazevedo_5@hotmail.com)
-  [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/+5511987087205)<br/>
+
   <hr>
 
 
